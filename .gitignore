@@ -1,0 +1,68 @@
+# Python
+*.pyc
+*~
+__pycache__
+*.pyo
+*.pyd
+.Python
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Django
+*.log
+*.pot
+*.egg-info/
+db.sqlite3
+media
+
+# Flask
+instance/
+.webassets-cache
+
+# Databases
+*.sqlite
+
+# If using dotenv for environment variables
+.env
+
+# Distribution / packaging
+.Python
+*.pyc
+pyenv
+.env
+.venv
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
